@@ -2,16 +2,16 @@
 
 A modern, responsive digital library web application built with **HTML, CSS, and JavaScript**. It provides a clean interface for browsing books and demonstrates a lightweight front-end architecture suitable for deployment on GitHub Pages.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/shabanihamidu19-cell/Open-Library)
-![GitHub repo size](https://img.shields.io/github/repo-size/shabanihamidu19-cell/Open-Library)
-![GitHub license](https://img.shields.io/github/license/shabanihamidu19-cell/Open-Library?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/shabanihamidu19-cell/ReadAnyBook)
+![GitHub repo size](https://img.shields.io/github/repo-size/shabanihamidu19-cell/ReadAnyBook)
+![GitHub license](https://img.shields.io/github/license/shabanihamidu19-cell/ReadAnyBook?color=blue)
 ![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-success)
 
 ---
 
 ## 🌐 Live Demo
 
-👉 https://shabanihamidu19-cell.github.io/Open-Library/
+👉 https://shabanihamidu19-cell.github.io/ReadAnyBook/
 
 ---
 
@@ -31,7 +31,7 @@ A modern, responsive digital library web application built with **HTML, CSS, and
 - HTML5
 - CSS3
 - JavaScript (ES6)
-
+ 
 ---
 
 ## 📂 Project Structure
@@ -42,6 +42,7 @@ Open-Library/
 │── style.css
 │── app.js
 └── README.md
+└── images
 ```
 
 ---
@@ -51,7 +52,7 @@ Open-Library/
 Clone the repository:
 
 ```bash
-git clone https://github.com/shabanihamidu19-cell/Open-Library.git
+git clone https://github.com/shabanihamidu19-cell/ReadAnyBook.git
 ```
 
 Open the project:
