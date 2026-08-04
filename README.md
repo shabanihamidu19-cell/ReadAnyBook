@@ -1,6 +1,6 @@
 # 📚 Open Library
 
-A modern, responsive digital library web application built with **HTML, CSS, and JavaScript**. It provides a clean interface for browsing books and demonstrates a lightweight front-end architecture suitable for deployment on GitHub Pages.
+A modern, responsive digital library web application built with **HTML, CSS, and JavaScript**. It provides a clean interface for browsing books and demonstrates a lightweight front-end architecture[...]
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/shabanihamidu19-cell/ReadAnyBook)
 ![GitHub repo size](https://img.shields.io/github/repo-size/shabanihamidu19-cell/ReadAnyBook)
@@ -80,12 +80,8 @@ Whenever changes are pushed to the `main` branch, the website is automatically u
 ---
 
 ## 📸 Screenshot
-```png
-Screenshot_20260804-232920.png
 
-```text
-images/screenshot.png
-```
+![App screenshot](images/Screenshot_20260804-232920.png)
 
 ---
 
